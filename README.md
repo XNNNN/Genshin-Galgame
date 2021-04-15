@@ -1,5 +1,5 @@
 # genshin_galgame
-
+ 邀约任务网页版
 ## Project setup
 ```
 npm install
